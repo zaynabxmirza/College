@@ -1,2 +1,2 @@
 # College
-A college management system in Java
+A college management system showcasing inheritance in Java
